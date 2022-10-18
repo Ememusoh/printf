@@ -37,3 +37,4 @@ int print_oct(va_list arg)
 	}
 	free(octa);
 	return (charPrinted);
+}
