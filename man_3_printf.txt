@@ -134,4 +134,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Emem Usoh, Olakpa Osaymen
+Emem Usoh, Olakpa Osayamen
